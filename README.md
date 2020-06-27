@@ -1,10 +1,10 @@
-# v3-ui
+# vu3-ui
 vue3.0开发的PC端组件库
 
 ## Button
 ```js
-import components from 'v3ui'
-import 'v3ui/lib/v3ui.css'
+import components from 'vu3-ui'
+import 'vu3-ui/lib/vu3ui.css'
 export default {
 	name: 'App',
 	components: { ...components },
